@@ -1,8 +1,3 @@
-/**
- * Code adapted from learnopengl.com
- * https://learnopengl.com/code_viewer_gh.php?code=src/1.getting_started/2.3.hello_triangle_exercise1/hello_triangle_exercise1.cpp
-*/
-
 #define SDL_MAIN_HANDLED
 #include <GL/glew.h>
 
