@@ -1,0 +1,18 @@
+{
+	"name": "mdyn",
+	"build": {
+		"context": "..",
+		"dockerfile": "../Dockerfile"
+	},
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"ms-vscode.cpptools-extension-pack",
+				"VisualStudioExptTeam.vscodeintellicode",
+				"ms-azuretools.vscode-docker",
+				"EditorConfig.EditorConfig",
+				"twxs.cmake"
+			]
+		}
+	}
+}
